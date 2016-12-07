@@ -1,0 +1,2 @@
+# Currency_exchanger
+This is a desktop app which helps to manage your currency and will provide the full information of what would be the exact exchange amount in the provided currency rates, It is managed through an api which updates it exchange rates whenever brought into internet connection. Thus it helps the customer or user to gain full information about what actual amount would he/she receive when they are amount to  go for exchange.
