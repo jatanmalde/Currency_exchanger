@@ -1,0 +1,1020 @@
+
+Name:-sam
+
+Address:-rit
+
+Mobile no.:-123
+
+Email Id:-qwe
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9343
+
+Name:-adssd
+
+Address:-asdadsads
+
+Mobile no.:-dsadsads
+
+Email Id:-adsads
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-CHF
+
+Exchange amount:-1.787313
+
+Name:-yash
+
+Address:-asd
+
+Mobile no.:-sda
+
+Email Id:-sdas
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9343
+
+Name:-Sanket Kokate
+
+Address:-RIT
+
+Mobile no.:-942123146
+
+Email Id:-sanketkokate@gmail.com
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9343
+
+Name:-asda
+
+Address:-mnb
+
+Mobile no.:-mnb
+
+Email Id:-hjh
+
+Profession:-Student
+
+Base value:-USD
+
+Currency amount:-100
+
+Exchange selected:-MXN
+
+Exchange amount:-1754
+
+Name:-asd
+
+Address:-asd
+
+Mobile no.:-dsa
+
+Email Id:-dsa
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9343
+
+Name:-asd
+
+Address:-dsad
+
+Mobile no.:-dsa
+
+Email Id:-dsa
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-BRL
+
+Exchange amount:-6.447168
+
+Name:-32
+
+Address:-32
+
+Mobile no.:-2
+
+Email Id:-3
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9343
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-sd
+
+Email Id:-asd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-BRL
+
+Exchange amount:-6.447168
+
+Name:-asd
+
+Address:-ads
+
+Mobile no.:-dsa
+
+Email Id:-ds
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CHF
+
+Exchange amount:-1.4531
+
+Name:-ads
+
+Address:-ads
+
+Mobile no.:-ads
+
+Email Id:-ds
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-DKK
+
+Exchange amount:-12.180813
+
+Name:-sai
+
+Address:-sai
+
+Mobile no.:-133
+
+Email Id:-sai
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9412
+
+Name:-Ajinkya
+
+Address:-rit
+
+Mobile no.:-9423253639
+
+Email Id:-ajinkyasakru@ritindia.edu
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CHF
+
+Exchange amount:-1.4502
+
+Name:-sai
+
+Address:-sai
+
+Mobile no.:-123
+
+Email Id:-sai
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-BRL
+
+Exchange amount:-5.2616
+
+Name:-sai
+
+Address:-sai
+
+Mobile no.:-123
+
+Email Id:-sai
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CHF
+
+Exchange amount:-1.4502
+
+Name:-sai
+
+Address:-sai
+
+Mobile no.:-123
+
+Email Id:-sai
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9412
+
+Name:-sai
+
+Address:-sai
+
+Mobile no.:-123
+
+Email Id:-sai
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9412
+
+Name:-kd
+
+Address:-rit
+
+Mobile no.:-123
+
+Email Id:-asd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-HKD
+
+Exchange amount:-11.649
+
+Name:-Sai Devkar
+
+Address:-RIT
+
+Mobile no.:-9423253639
+
+Email Id:-sai.Devkar@ritindia.edu
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CNY
+
+Exchange amount:-9.7299
+
+Name:-asd
+
+Address:-aasd
+
+Mobile no.:-123
+
+Email Id:-as
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-BRL
+
+Exchange amount:-5.2616
+
+Name:-sai
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-sa
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CNY
+
+Exchange amount:-9.7299
+
+Name:-sai
+
+Address:-sai
+
+Mobile no.:-123
+
+Email Id:-sai
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-BRL
+
+Exchange amount:-6.471768
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-zd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9412
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-sd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-12
+
+Exchange selected:-CZK
+
+Exchange amount:-4.30776
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-sa
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-12
+
+Exchange selected:-BRL
+
+Exchange amount:-0.631392
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-sa
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-12
+
+Exchange selected:-BRL
+
+Exchange amount:-0.631392
+
+Name:-asd
+
+Address:-sda
+
+Mobile no.:-213
+
+Email Id:-asd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-CAD
+
+Exchange amount:-2.387676
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-12
+
+Email Id:-asd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-1
+
+Exchange selected:-CAD
+
+Exchange amount:-0.019412
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-213
+
+Email Id:-sad
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-1
+
+Exchange selected:-CHF
+
+Exchange amount:-0.014502
+
+Name:-asd
+
+Address:-asd
+
+Mobile no.:-123
+
+Email Id:-sadq
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-1
+
+Exchange selected:-CAD
+
+Exchange amount:-0.019412
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-sd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-5
+
+Exchange selected:-CHF
+
+Exchange amount:-0.07251
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-xsd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-4
+
+Exchange selected:-CAD
+
+Exchange amount:-0.077648
+
+Name:-sam
+
+Address:-sam
+
+Mobile no.:-94232536309
+
+Email Id:-sam@ritindia.edu
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9099
+
+Name:-Sai Devkar
+
+Address:-RIT
+
+Mobile no.:-123
+
+Email Id:-sai.devkar@ritindia.edu
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9099
+
+Name:-yash Malde
+
+Address:-rit
+
+Mobile no.:-123
+
+Email Id:-asd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9099
+
+Name:-yash
+
+Address:-rit
+
+Mobile no.:-213
+
+Email Id:-qwe
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9099
+
+Name:-pradnya
+
+Address:-rit
+
+Mobile no.:-123456789
+
+Email Id:-pcjadhav@gmail.com
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-500
+
+Exchange selected:-CAD
+
+Exchange amount:-9.5495
+
+Name:-sank
+
+Address:-vadgaon
+
+Mobile no.:-7350126412
+
+Email Id:-sanketkokate98@gmail.com`
+
+Profession:-Engineer
+
+Base value:-INR
+
+Currency amount:-10000
+
+Exchange selected:-USD
+
+Exchange amount:-150.26
+
+Name:-sam
+
+Address:-sam
+
+Mobile no.:-12
+
+Email Id:-sam
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-12
+
+Exchange selected:-CHF
+
+Exchange amount:-0.173616
+
+Name:-Kedar Shivaji Aambole
+
+Address:-RIT
+
+Mobile no.:-465665
+
+Email Id:-sdasd
+
+Profession:-Engineer
+
+Base value:-INR
+
+Currency amount:-4566
+
+Exchange selected:-CAD
+
+Exchange amount:-87.206034
+
+Username:-adminLogged IN
+
+
+Username:-sankLogged IN
+
+
+Username:-Logged IN
+
+
+Username:-1303020Logged IN
+
+
+Name:-kaustubh
+
+Address:-Latur
+
+Mobile no.:-9404902000
+
+Email Id:-ka
+
+Profession:-Engineer
+
+Base value:-USD
+
+Currency amount:-100
+
+Exchange selected:-INR
+
+Exchange amount:-6655.2
+
+Name:-abhinav
+
+Address:-RIT
+
+Mobile no.:-123
+
+Email Id:-abhinav
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CHF
+
+Exchange amount:-1.4468
+
+Name:-Dhoni
+
+Address:-RIT
+
+Mobile no.:-9423253639
+
+Email Id:-dhoni@ritindia.edu
+
+Profession:-Industrialist
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9099
+
+Name:-siddhi
+
+Address:-rit
+
+Mobile no.:-9423
+
+Email Id:-siddhi@ritindia.edu
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-156
+
+Exchange selected:-CHF
+
+Exchange amount:-2.257008
+
+Name:-kedar
+
+Address:-rit
+
+Mobile no.:-9423253639
+
+Email Id:-kedar
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-156
+
+Exchange selected:-CHF
+
+Exchange amount:-2.257008
+
+Name:-sanket
+
+Address:-rit
+
+Mobile no.:-9423253639
+
+Email Id:-sanket@ritindia.edu
+
+Profession:-Engineer
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9145
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-sad
+
+Email Id:-asds
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CAD
+
+Exchange amount:-1.9062
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-sd
+
+Email Id:-ads
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-CAD
+
+Exchange amount:-2.344626
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-sad
+
+Email Id:-ssccccc
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-100
+
+Exchange selected:-CNY
+
+Exchange amount:-9.7695
+
+Name:-sank
+
+Address:-RIT
+
+Mobile no.:-9423253639
+
+Email Id:-a
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-CZK
+
+Exchange amount:-44.16684
+
+Name:-sai
+
+Address:-RIT
+
+Mobile no.:-9423253639
+
+Email Id:-s
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-1456
+
+Exchange selected:-CHF
+
+Exchange amount:-21.259056
+
+Name:-Yash
+
+Address:-Miraj
+
+Mobile no.:-9423253639
+
+Email Id:-yashmalde123@gmail.com
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-USD
+
+Exchange amount:-1.848567
+
+Username:-asdLogged IN
+
+
+Username:-adminLogged IN
+
+
+Username:-adminLogged IN
+
+
+Username:-yashLogged IN
+
+
+Username:-ketanLogged IN
+
+
+Name:-ketan
+
+Address:-rit
+
+Mobile no.:-123
+
+Email Id:-asd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-123
+
+Exchange selected:-CAD
+
+Exchange amount:-2.353851
+
+Username:-asdLogged IN
+
+
+Name:-asd
+
+Address:-sad
+
+Mobile no.:-123
+
+Email Id:-asd
+
+Profession:-Student
+
+Base value:-INR
+
+Currency amount:-213
+
+Exchange selected:-CAD
+
+Exchange amount:-4.076181
+
+Username:-yashLogged IN
+
+
+Username:-aaaaLogged IN
+
+
+Username:-Logged IN
+
+
+Username:-Logged IN
+
+
+Username:-hrishii karneLogged IN
+
+
+Username:-hrishii karneLogged IN
+
